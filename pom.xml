@@ -15,6 +15,9 @@
 	<description>Projeto ERP</description>
 
 	<properties>
+
+		<sonar.login>admin</sonar.login>
+                <sonar.password>op14092003</sonar.password> 
 		<java.version>11</java.version>
 	</properties>
 
